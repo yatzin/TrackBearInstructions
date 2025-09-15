@@ -2,6 +2,8 @@
 
 Welcome! This guide will help you get started with **Trackbear** to track your reading, set up books, and join a shared leaderboard with friends. No technical skills needed!
 
+This page can be found here: https://yatzin.github.io/TrackBearInstructions/
+
 ---
 
 ## 1. Create a Trackbear Account
