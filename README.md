@@ -60,7 +60,7 @@ This page can be found [here](https://yatzin.github.io/TrackBearInstructions/)
 
 ## 4. Updating Your Progress
 
-- On the top left, click **Enter Progress*
+- On the top left, click **Enter Progress**
 - Enter the details and click **Submit**
 
 ---
