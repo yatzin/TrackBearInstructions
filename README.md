@@ -39,7 +39,7 @@ This page can be found [here](https://yatzin.github.io/TrackBearInstructions/)
 
 ## 4. Join the Shared Leaderboard
 
-1. Click the following link: https://trackbear.app/leaderboards/join?joinCode=
+1. Click the following link: TBD
 2. This will open Trackbear and prompt you to join the leaderboard.  
 3. Click **Join Leaderboard**.
 4. If you click the star, the leaderboard will show up along the left navigation.
